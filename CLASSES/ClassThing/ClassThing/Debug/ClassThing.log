@@ -1,1 +1,8 @@
-﻿  ClassThing.vcxproj -> C:\32_LEARN\CLASSES\ClassThing\Debug\ClassThing.exe
+﻿  main.cpp
+c:\34mygit\cpp_examples\classes\classthing\classthing\main.cpp(348): warning C4101: 'pStage': unreferenced local variable
+c:\34mygit\cpp_examples\classes\classthing\classthing\main.cpp(347): warning C4101: 'pNameFirm': unreferenced local variable
+c:\34mygit\cpp_examples\classes\classthing\classthing\main.cpp(349): warning C4101: 'pPayWorker': unreferenced local variable
+c:\34mygit\cpp_examples\classes\classthing\classthing\main.cpp(353): warning C4101: 'pNamePensionFound': unreferenced local variable
+c:\34mygit\cpp_examples\classes\classthing\classthing\main.cpp(346): warning C4101: 'pProfessional': unreferenced local variable
+c:\34mygit\cpp_examples\classes\classthing\classthing\main.cpp(354): warning C4101: 'pPayPensioner': unreferenced local variable
+  ClassThing.vcxproj -> C:\34MYGIT\CPP_EXAMPLES\CLASSES\ClassThing\Debug\ClassThing.exe
