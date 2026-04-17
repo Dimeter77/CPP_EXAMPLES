@@ -1,0 +1,3 @@
+﻿  DerivedFunction1.cpp
+c:\34mygit\cpp_examples\derriver\derivedfunction1\derivedfunction1\derivedfunction1.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  DerivedFunction1.vcxproj -> C:\34MYGIT\CPP_EXAMPLES\DERRIVER\DerivedFunction1\Debug\DerivedFunction1.exe
